@@ -1,4 +1,4 @@
-##test  a sql script    (github add)
+##test  a sql script add local
 create table  test ( id int(4) NOT NULL auto_increment, visit_date date,
 pv int(6),
 uv int(6),
