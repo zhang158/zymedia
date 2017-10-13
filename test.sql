@@ -1,4 +1,4 @@
-##test  a sql script add local
+##test  a sql script add again hub
 create table  test ( id int(4) NOT NULL auto_increment, visit_date date,
 pv int(6),
 uv int(6),
