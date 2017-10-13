@@ -1,3 +1,4 @@
+##test  a sql script
 create table  test ( id int(4) NOT NULL auto_increment, visit_date date,
 pv int(6),
 uv int(6),
